@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Trumpet-Flat--Streamline-Fluent-Emoji.svg" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g>
+    <rect x="3.5" y="3.5" width="121" height="121" rx="16.5" ry="16.5" fill="#fff" stroke-width="0"/>
+    <path d="M108,7c7.18,0,13,5.82,13,13v88c0,7.18-5.82,13-13,13H20c-7.18,0-13-5.82-13-13V20c0-7.18,5.82-13,13-13h88M108,0H20C8.972,0,0,8.972,0,20v88C0,119.028,8.972,128,20,128h88c11.028,0,20-8.972,20-20V20c0-11.028-8.972-20-20-20h0Z" fill="#000" stroke-width="0"/>
+  </g>
+  <path d="M3.286,45.012h103.417v22.054c0,8.787-7.134,15.922-15.922,15.922H3.286v-37.975h0Z" fill="#fc0" stroke-width="0"/>
+  <path d="M107.72,123.539h-22.941v-38.343h38.343v22.941c0,8.506-6.896,15.402-15.402,15.402Z" fill="#900" stroke-width="0"/>
+  <rect x="7" y="40.333" width="114" height="7" fill="#000" stroke-width="0"/>
+  <rect x="7" y="80.667" width="114" height="7" fill="#000" stroke-width="0"/>
+  <rect x="80.667" y="7" width="7" height="114" fill="#000" stroke-width="0"/>
+  <rect x="40.333" y="7" width="7" height="114" fill="#000" stroke-width="0"/>
+  <line x1="55.471" y1="55.471" x2="72.529" y2="55.471" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path d="M24.196,56.484h0c4.707,0,8.529,3.822,8.529,8.529v6.504H15.667v-6.504c0-4.707,3.822-8.529,8.529-8.529Z" transform="translate(88.196 39.804) rotate(90)" fill="#fc0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <line x1="64" y1="72.529" x2="64" y2="55.471" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <rect x="84.167" y="44.682" width="39.566" height="38.343" fill="#000" stroke-width="0"/>
+  <path d="M15.3,4.367h28.849v38.343H4.582V15.084c0-5.915,4.802-10.717,10.717-10.717Z" fill="#000" stroke-width="0"/>
+  <rect x="44.217" y="84.217" width="39.566" height="38.343" fill="#000" stroke-width="0"/>
+  <path d="M108,7c7.18,0,13,5.82,13,13v88c0,7.18-5.82,13-13,13H20c-7.18,0-13-5.82-13-13V20c0-7.18,5.82-13,13-13h88M108,0H20C8.972,0,0,8.972,0,20v88C0,119.028,8.972,128,20,128h88c11.028,0,20-8.972,20-20V20c0-11.028-8.972-20-20-20h0Z" fill="#000" stroke-width="0"/>
+</svg>
