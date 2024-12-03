@@ -9,5 +9,9 @@ function crosswordRedirect() {
 
 function bandleRedirect()
 {
-    window.location.href = "https://noahpin.github.io/bandle/";
+    window.location.href = "https://dailytrojan-online.github.io/bandle/";
+}
+
+function spellingBeadsRedirect() {
+    window.location.href = "https://dailytrojan-online.github.io/spelling-beads/"; 
 }
