@@ -4,7 +4,7 @@ function homeRedirect()
 }
 
 function crosswordRedirect() {
-    window.location.href = "https://lillianqiao.github.io/dt-crossword/minicrossword.html"; 
+    window.location.href = "https://dailytrojan-online.github.io/mini-crossword/"; 
 }
 
 function bandleRedirect()
